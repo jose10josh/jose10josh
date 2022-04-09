@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Currently learning everything 🤔
+- 🌱 Currently learning Unity 
 
 ### Languages and Tools:
 
